@@ -1,4 +1,4 @@
-odin-recipes
+<strong>odin-recipes</strong>
 <hr/>
 Quick recipes of my 2 most favorite foods.
 

@@ -1,0 +1,35 @@
+body{
+    background-color: beige;
+}
+
+.headline{
+    color: green;
+    text-align: center;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#list{
+    text-align: center;
+}
+
+#unorderedlist{
+    display: inline-block;
+    text-align: left;
+}
+
+.link{
+    color: cornflowerblue;
+    
+}
+
+.title{
+    color: chocolate;
+    font-family:'Times New Roman', Times, serif ;
+
+}
+
+.pic{
+    height: 600px;
+    width: auto;
+}
